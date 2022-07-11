@@ -21,6 +21,7 @@ Here I put all of my fabourite fonts that I use while I'm coding! Here you will 
 - Operator Mono
 - Operator Mono Lig
 - DejaVu Sans Mono
+- D2 Coding
 - JetBrains Mono
 - Roboto Mono
 - Ubuntu Mono
@@ -28,6 +29,7 @@ Here I put all of my fabourite fonts that I use while I'm coding! Here you will 
 - Source Code Pro
 - Consolas
 - Inconsolata
+- Hack Nerd
 ```
 
 ### Happy Coding 🚀
