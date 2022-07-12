@@ -15,6 +15,7 @@ Here I put all of my fabourite fonts that I use while I'm coding! Here you will 
 
 ```javascript
 - Menlo
+- Meslo
 - Cascadia Code
 - Fira Code
 - Fira Mono
