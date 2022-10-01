@@ -19,6 +19,7 @@ Here I put all of my fabourite fonts that I use while I'm coding! Here you will 
 - Meslo LG
 - Cascadia Code
 - Fira Code
+- Fira Code iScript
 - Fira Mono
 - Operator Mono
 - Operator Mono Lig
