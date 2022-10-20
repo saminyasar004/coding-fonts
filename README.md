@@ -1,9 +1,10 @@
 # **Programming Fonts**
 
 Hey Programmers,
-Here I put all of my fabourite fonts that I use while I'm coding! Here you will find most used fonts for programming. All of those are fancy and beautifull! 🎉🔥
+Here I put all of my favourite fonts that I use while I'm coding! Here you will find most used fonts for programming. All of those are fancy and beautifull! 🎉🔥
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-brightgreen)](https://linkedin.com/in/saminyasar2004/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
 [![Facebook Page](https://img.shields.io/badge/Facebook-Page-brightgreen)](https://www.facebook.com/saminyasar04/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://instagram.com/saminyasar004/)
@@ -17,6 +18,9 @@ Here I put all of my fabourite fonts that I use while I'm coding! Here you will 
 - Menlo
 - Meslo
 - Meslo LG
+- Meslo Nerd Font
+- MonoLisa
+- Noto Sans Mono
 - Cascadia Code
 - Fira Code
 - Fira Code iScript
@@ -35,4 +39,4 @@ Here I put all of my fabourite fonts that I use while I'm coding! Here you will 
 - Hack Nerd
 ```
 
-### Happy Coding 🚀
+### Happy Coding 🚀👨‍💻
